@@ -39,6 +39,10 @@ This project is covered under the MIT license.
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
+## Acknowledgments
+
+- Assisted by Amazon Q
+
 ## Tests
 
 To run tests for this application, use the following command:
